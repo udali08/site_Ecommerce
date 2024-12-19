@@ -1,0 +1,668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:services\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\controllers\\clientorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:controllers\\clientorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\services\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:services\\carthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\migrations\\20241218200120_mytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:migrations\\20241218200120_mytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\storesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\storesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\passwordresetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\passwordresetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\models\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:models\\checkoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|c:\\users\\dell\\desktop\\dalistore\\beststoremvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DACA66B-EDB9-408E-BBD0-6F74E57C381D}|BestStoreMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "Views\\Store\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T09:45:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Services\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Services\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Services\\DatabaseInitializer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:03:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T16:04:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:16:22.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowFwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:59:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T08:05:22.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:47:58.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:14:04.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T15:48:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:59:09.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\ClientOrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientOrdersController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\ClientOrdersController.cs",
+              "RelativeToolTip": "Controllers\\ClientOrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:47:23.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:57:49.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T16:04:08.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Services\\CartHelper.cs",
+              "RelativeDocumentMoniker": "Services\\CartHelper.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Services\\CartHelper.cs",
+              "RelativeToolTip": "Services\\CartHelper.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:03:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:41:08.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:33:50.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T19:51:01.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T21:40:20.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:32:12.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:35:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:30:44.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T21:30:15.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T15:54:42.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T15:54:32.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241218200120_MyTables.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Migrations\\20241218200120_MyTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241218200120_MyTables.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Migrations\\20241218200120_MyTables.cs",
+              "RelativeToolTip": "Migrations\\20241218200120_MyTables.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:01:21.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T20:29:38.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoreSearchModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\StoreSearchModel.cs",
+              "RelativeDocumentMoniker": "Models\\StoreSearchModel.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\StoreSearchModel.cs",
+              "RelativeToolTip": "Models\\StoreSearchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:52.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ProfileDto.cs",
+              "RelativeToolTip": "Models\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:34.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:28.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:20.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PasswordResetDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\PasswordResetDto.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordResetDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\PasswordResetDto.cs",
+              "RelativeToolTip": "Models\\PasswordResetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\PasswordDto.cs",
+              "RelativeDocumentMoniker": "Models\\PasswordDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\PasswordDto.cs",
+              "RelativeToolTip": "Models\\PasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:02:03.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:01:56.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:01:39.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CheckoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\CheckoutDto.cs",
+              "RelativeDocumentMoniker": "Models\\CheckoutDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\CheckoutDto.cs",
+              "RelativeToolTip": "Models\\CheckoutDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:01:22.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:47:34.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Models\\LoginDto.cs",
+              "RelativeToolTip": "Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:47:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\DaliStore\\BestStoreMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T15:53:32.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
